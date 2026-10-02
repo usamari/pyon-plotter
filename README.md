@@ -87,6 +87,6 @@ This is a summary. If it differs from the license files, those files prevail.
 ukabupukapuka@gmail.com
 https://x.com/8_senkou
 
-##　Tips
+## Tips
 
 https://ko-fi.com/usamari
